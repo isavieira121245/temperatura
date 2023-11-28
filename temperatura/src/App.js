@@ -1,5 +1,6 @@
 import React from 'react';
-import Temperatura from './temperatura'; // Certifique-se de que o caminho está correto
+import Temperatura from './temperatura';
+import './temperatura.css'
 
 const App = () => {
   return (
