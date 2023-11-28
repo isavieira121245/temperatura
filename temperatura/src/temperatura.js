@@ -24,7 +24,7 @@ const Temperatura = () => {
           type="number"
           value={celsius}
           onChange={handleCelsiusChange}
-          placeholder="Digite a temperatura em Celsius:"
+          placeholder="Digite temperatura em Celsius:"
         />
       </label>
       <br />
