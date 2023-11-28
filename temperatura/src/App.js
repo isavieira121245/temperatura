@@ -1,6 +1,5 @@
 import React from 'react';
 import Temperatura from './temperatura';
-import './temperatura.css'
 
 const App = () => {
   return (
