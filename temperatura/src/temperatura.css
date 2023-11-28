@@ -1,16 +1,7 @@
-.temperature-container {
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-}
-
 .temperature-input {
   width: 100%;
-  margin-bottom: 10px;
-  padding: 8px;
+  margin-bottom: 100px;
+  padding: 800px;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -29,6 +20,3 @@
   cursor: pointer;
 }
 
-.convert-button:hover {
-  background-color: #2980b9;
-}
